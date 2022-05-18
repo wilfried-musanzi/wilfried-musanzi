@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Musanzi wilfried</h3>
-<h4 align="left">Student at UNH, Lubumbashi DRC.</h4>
+<h4 align="center">Student at UNH, Lubumbashi DRC.</h4>
 
 <br>
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=wilfried-musanzi&label=Profile%20views&color=0e75b6&style=flat"
