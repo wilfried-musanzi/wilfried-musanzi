@@ -58,17 +58,20 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=wilfried-musanzi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+### Stats Overview : :cyclone:
 
-<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilfried-musanzi&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?usernamewilfried-musanzi&theme=dracula&no-bg=true&row=1"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilfried-musanzi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+### GitHub Highlights: :blossom:
 
-<br>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?wilfried-musanzi&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wilfried-musanzi&theme=material-palenight"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilfried-musanzi&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+### Github Activity: 🔥
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=wilfried-musanzi&theme=dracula&color=B994E6&bg_color=2B2D3D" />
