@@ -18,10 +18,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/wilfried-musanzi-197381205/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="adam pithewan" height="30" width="30" /></a>
  <a href="https://twitter.com/mavula_w" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="30" width="30" /></a>
 </p>
 
 <br>
@@ -50,12 +50,14 @@
 ### Stats Overview :
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilfried-musanzi&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=wilfried-musanzi&theme=dracula&no-bg=true&row=1"/>
 
 ### GitHub Highlights:
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfried-musanzi&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wilfried-musanzi&theme=material-palenight"/>
 </a>
 
 ### Github Activity:
