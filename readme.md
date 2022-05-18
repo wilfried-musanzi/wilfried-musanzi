@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Musanzi wilfried</h1>
-<h3 align="left">Student at UNH, Lubumbashi DRC.</h3>
+<h3 align="center">Hi 👋, I'm Musanzi wilfried</h3>
+<h4 align="left">Student at UNH, Lubumbashi DRC.</h4>
 
 <br>
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=wilfried-musanzi&label=Profile%20views&color=0e75b6&style=flat"
@@ -39,22 +39,22 @@
 <p align="left"> 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      width="30" height="30" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
+      alt="html5" width="30" height="30" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+      alt="javascript" width="30" height="30" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      alt="nodejs" width="30" height="30" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      width="30" height="30" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30"
+      height="30" /> </a> </p>
 
 <br>
 
