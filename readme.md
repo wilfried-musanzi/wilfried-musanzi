@@ -47,18 +47,11 @@
 
 <br>
 
-### Stats Overview : :cyclone:
+### Stats Overview
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilfried-musanzi&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+![wilfried-musanzi GitHub stats](https://github-readme-stats.vercel.app/api?username=wilfried-musanzi&show_icons=true&theme=radical)
 
-### GitHub Highlights: :blossom:
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfried-musanzi&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wilfried-musanzi&theme=material-palenight"/>
-</a>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wilfried-musanzi&theme=material-palenight"/>
 
 ### Github Activity: 🔥
 
