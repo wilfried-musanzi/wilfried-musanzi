@@ -11,7 +11,7 @@
 
 
 ### Stats Overview
-<p>
+<p align="left">
     
 ![wilfried-musanzi Most Used Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfried-musanzi&langs_count=10&theme=tokyonight&layout=compact)
 </p>
